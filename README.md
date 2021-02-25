@@ -8,4 +8,4 @@ fetching list of all breeds and according images in app
 #
 learned use of Picker View form UIKit
 #
-<img src = "https://raw.githubusercontent.com/Jagdeepsingh8562/DogAPI/main/Screenshot.jpg" height = "650" width = "350">
+### <img src = "https://raw.githubusercontent.com/Jagdeepsingh8562/DogAPI/main/Screenshot.jpg" height = "650" width = "350">
